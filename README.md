@@ -1,5 +1,7 @@
 # SNEAKY-GRABBER
 
+Discord: https://discord.gg/bZnYuDbH6F
+
 Features
 Discord Info
 
@@ -13,18 +15,27 @@ Gift Codes
 Backup Codes
 Browser Data
 
+
+
 Cookies
 Passwords
 History
 Credit/Debit Cards
 Game Data
 
+
+
+
 Minecraft Session Info
 Roblox Cookie & Other Data
 Discord Injection
 
+
+
 Sends token, password & email on user login or when user changes password
 System info
+
+
 
 User
 OS
@@ -37,6 +48,8 @@ PC Specs
 Screenshot
 General Functions
 
+
+
 Checks if being run in a virustotal sandbox/virtual machine
 Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes
 Adds file to startup
@@ -47,4 +60,12 @@ Icon
 Low Detections
 Bypass Token Protector
 File Pumper
-Self Destruct
+
+Self Destruct!
+
+[image](https://user-images.githubusercontent.com/132308431/236926922-aa7ca4db-fafa-4832-88b7-28171714ebf1.png)
+
+
+
+
+
